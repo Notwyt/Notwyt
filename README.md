@@ -1,1 +1,1 @@
-Welcome to the GitHub of Notwyt, the founder of Temporal AI Technologies Inc. and creator of 50+ full-stack apps, developer tools, infrastructure platforms, and raw deployment systems. Everything you see here was built solo — often on a phone, during 12-hour sprints, without funding.
+
